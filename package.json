@@ -1,0 +1,11 @@
+{
+  "name": "gym-api-practica",
+  "version": "1.0.0",
+  "description": "API practica de lo visto de API REST ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vicente",
+  "license": "ISC"
+}
